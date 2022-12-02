@@ -1,0 +1,46 @@
+*{
+     padding: 0;
+     margin: 0;
+}
+.navbar-nav li a{
+     transition: 1s;
+     border-bottom: 2px solid transparent;
+}
+
+.navbar-nav li a:hover{
+     border-color: #fff;
+}
+.navbar-nav li{
+     padding-left: 2em;
+}
+.img234{
+     position: absolute;
+     top: 0;
+}
+.image2{
+     position: absolute;
+     top: 150vh;
+     left: 0;
+     color: white;
+}
+.image3{
+     position: absolute;
+     top: 233vh;
+     left: 0;
+     color: white;
+}
+.image4{
+     position: absolute;
+     top: 360vh;
+     left: 0;
+     color: white;
+}
+
+.d-flex a{
+     text-decoration: none;
+     color: #fff;
+}
+.d-flex a:hover{
+     text-decoration: none;
+     color: grey;
+}
